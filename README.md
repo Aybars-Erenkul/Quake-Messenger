@@ -4,6 +4,8 @@ Quake Messenger scrapes the earthquake data from a trusted source, and then uses
 
 The program is easy to use and can be customized to your preferences. You can specify the minimum magnitude threshold for alerts, as well as the method of receiving notifications. The notifications include important details such as the location, magnitude, and time of the earthquake.
 
+## Turkish
+
 Quake Messenger, deprem verilerini güvenilir bir kaynaktan alır ve ardından WhatsApp Web arabirimi aracılığıyla mesaj gönderme sürecini otomatikleştirmek için Selenium'u kullanır. 
 
 Programın kullanımı kolaydır ve tercihlerinize göre özelleştirilebilir. Uyarılar için minimum büyüklük eşiğini ve ayrıca bildirim alma yöntemini belirleyebilirsiniz. Bildirimler, depremin yeri, büyüklüğü ve zamanı gibi önemli detayları içeriyor.
