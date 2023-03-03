@@ -1,4 +1,5 @@
 # Quake-Messenger
+http://ForTheBadge.com/images/badges/made-with-python.svg
 
 Quake Messenger scrapes the earthquake data from a trusted source, and then uses Selenium to automate the process of sending messages through the WhatsApp Web interface. With this program, you can stay up-to-date on any seismic activity that may affect you or your loved ones.
 
