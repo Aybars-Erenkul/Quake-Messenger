@@ -1,14 +1,11 @@
-https://img.shields.io/badge/madewidth-py-green
-
-# Quake-Messenger
-http://ForTheBadge.com/images/badges/made-with-python.svg
+# Quake-Messenger ![Made With Python](http://ForTheBadge.com/images/badges/made-with-python.svg)
+![Made With Python](http://ForTheBadge.com/images/badges/made-with-python.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/aybars-erenkul/Quake-Messenger)
 
 Quake Messenger scrapes the earthquake data from a trusted source, and then uses Selenium to automate the process of sending messages through the WhatsApp Web interface. With this program, you can stay up-to-date on any seismic activity that may affect you or your loved ones.
 
 The program is easy to use and can be customized to your preferences. You can specify the minimum magnitude threshold for alerts, as well as the method of receiving notifications. The notifications include important details such as the location, magnitude, and time of the earthquake.
 
 ## Turkish
-
 Quake Messenger, deprem verilerini güvenilir bir kaynaktan alır ve ardından WhatsApp Web arabirimi aracılığıyla mesaj gönderme sürecini otomatikleştirmek için Selenium'u kullanır. 
 
 Programın kullanımı kolaydır ve tercihlerinize göre özelleştirilebilir. Uyarılar için minimum büyüklük eşiğini ve ayrıca bildirim alma yöntemini belirleyebilirsiniz. Bildirimler, depremin yeri, büyüklüğü ve zamanı gibi önemli detayları içeriyor.
