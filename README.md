@@ -5,13 +5,14 @@ Quake Messenger scrapes the earthquake data from a trusted source, and then uses
 The program is easy to use and can be customized to your preferences. You can specify the minimum magnitude and distance threshold for alerts, as well as the frequency of notifications. The notifications include important details such as the location, magnitude, and time of the earthquake.
 
 ## Requirements
-
+```bash
 beautifulsoup4==4.11.2
 gTTS==2.3.1
 PyQt6==6.4.2
 requests==2.28.2
 selenium==4.8.2
 webdriver_manager==3.8.5
+```
 
 ## Installation
 
